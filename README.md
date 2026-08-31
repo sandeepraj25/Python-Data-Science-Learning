@@ -1,2 +1,2 @@
-# Python-Data-Analytics-Learning
-Python-Data-Analytics-Learning
+# Python-Data-Science-Learning
+Python-Data-Science-Learning
